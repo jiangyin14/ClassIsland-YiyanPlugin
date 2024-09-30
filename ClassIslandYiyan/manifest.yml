@@ -1,0 +1,8 @@
+﻿id: Yiyan.plugin  # 插件 id
+name: 一言插件  # 插件名称
+apiVersion: 1.5.0.0  # 插件面向的 ClassIsland 版本
+description: 在你的 ClassIsland 主窗口上以固定速率显示或更新一条一言  # 插件描述
+entranceAssembly: "YiyanPlugin.dll"  # 插件入口程序集
+url: https://github.com/jiangyin14/ClassIsland-YiyanPlugin  # 插件 Url
+author: jiangyin14  # 插件作者
+version: 1.0.0.0  # 插件版本
